@@ -1,0 +1,19 @@
+#page1{
+	
+	background-color: #50E3C2;
+	background-repeat: no-repeat;
+	background-position: 70px 70px; 
+	width: 100%; 
+	height: 700px;
+}
+.cycle-slideshow img{
+	width: 90%;
+	padding-left: 10%;
+	margin-top: -150px;
+	
+}
+#logo{
+	position: relative;
+	left: 70px;
+	top: -160px;
+}
